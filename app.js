@@ -1,17 +1,7 @@
 // Declaration our modules
 const os = require('os')
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-const fs = require('fs')
-<<<<<<< HEAD
-=======
-=======
->>>>>>> Stashed changes
 const myMath = require('./myMath')
->>>>>>> Stashed changes
-=======
-const myMath = require('./myMath')
->>>>>>> 5aef022307911e3163407f896d05f2ee0b8cd664
+
 
 // Show first string (Hello World)
 if(process.argv[2]){
